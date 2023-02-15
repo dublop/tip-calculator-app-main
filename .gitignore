@@ -4,8 +4,7 @@
 #####################################################
 *.sketch
 *.fig
-*.md
-/design
+
 # Avoid accidental XD upload if you convert the design file
 ###############################################
 ## Please do not remove line 12 - thanks! 🙂 ##
