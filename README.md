@@ -18,7 +18,7 @@
 
 ### Links
 
-- Live Site URL: [https://dublop.github.io/qr-code-component/](https://dublop.github.io/tip-calculator-app-main/)
+- Live Site URL: [https://dublop.github.io/tip-calculator-app-main/](https://dublop.github.io/tip-calculator-app-main/)
 
 ## My process
 
